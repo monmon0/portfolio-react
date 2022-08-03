@@ -121,14 +121,14 @@ section .marquee {
 /* ----------------- MEDIA QUERIES (MEDIUM DEVICES) ----------------------- */
 @media screen and (max-width: 1024px) {
     header {
-        height: 68vh;
+        height: 100vh;
     }
 }
 
 /* ----------------- MEDIA QUERIES Snall DEVICES) ----------------------- */
 @media screen and (max-width: 600px) {
     header {
-        height: 100vh;
+        height: 140vh;
 
     }
     .header__social, .scroll__down {

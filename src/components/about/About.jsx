@@ -33,8 +33,10 @@ const About = () => {
           <small>3+ Years</small>
         </article>
       </div>
+      <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit magnam voluptatem sit, in illo accusamus molestias facilis id saepe odio commodi doloribus vitae quos modi cumque delectus veritatis dicta voluptas.</p>
+    <a href="#contact" className="btn btn-primary"> Let's Talk</a>
       </div>
-
+    
      
     </div>
     

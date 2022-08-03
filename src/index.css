@@ -11,9 +11,9 @@
 
 :root {
     --color-bg: #ECEAE4;
-    --color-bg-variant: #F0E6DD;
+    --color-bg-variant:#E3DDCF  ;
     --color-primary: rgb(126,139,153) ;
-    --color-primary-variant: ;
+    --color-primary-variant: #F0E6DD;
     --color-dark: #515151 ;
     --color-light: #9B9B9B ;
 
@@ -38,7 +38,6 @@ body{
     background: var(--color-bg);
     color: var(--color-dark);
     line-height: 1.7;
-    /* background-image: url(../src/assets/bg-texture.png); */
 }
 
 /* ----------------- GENERAL STYLES BBY----------------------- */
@@ -57,7 +56,7 @@ h1{
 
 section{
     margin-top: 8rem;
-    /* height: 100vh; */
+    /* height: 100vh; */nav-down: ;
 }
 
 section > h2, section > h5{

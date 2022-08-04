@@ -3,6 +3,7 @@
     grid-template-columns: 35% 50%;
     gap: 15%;
     font-family: 'Vollkorn', serif;
+    height: max-content;
 }
 
 .about__me{

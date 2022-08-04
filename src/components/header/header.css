@@ -10,6 +10,16 @@ header {
     position: relative;
 }
 
+.header__container h1{
+    font-family: 'Modak', cursive;
+    font-size: 4rem;
+}
+
+.header__container h5{
+    font-family: 'tan-waverly', serif;
+    letter-spacing: 0.1rem;
+}
+
 /* --------------- CTA------------------ */
 .cta {
   margin-top: 2.5rem;
